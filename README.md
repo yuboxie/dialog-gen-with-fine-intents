@@ -1,5 +1,7 @@
 # Empathetic Dialog Generation with Fine-Grained Intents
 
+[![DOI](https://zenodo.org/badge/404680110.svg)](https://zenodo.org/badge/latestdoi/404680110)
+
 Code for paper
 > Yubo Xie and Pearl Pu. Empathetic Dialog Generation with Fine-Grained Intents.
 > CoNLL 2021. [PDF Link](https://arxiv.org/pdf/2105.06829.pdf).
@@ -38,3 +40,6 @@ TensorFlow checkpoints can be found [here](https://drive.google.com/drive/folder
 
 ## Raw Datasets
 The raw OS and EDOS datasets can be found [here](https://drive.google.com/drive/folders/16-dkORqc6p7q5j14zNN_t7_V-NJjn6ga?usp=sharing).
+
+## License
+See the [LICENSE](LICENSE) file in the root repo folder for more details.
